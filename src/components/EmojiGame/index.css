@@ -1,0 +1,18 @@
+.emoji-game-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  min-height: 95vh;
+  /* padding: 70px; */
+  padding-top:50px;
+  display: flex;
+  align-self: center;
+  justify-content: center;
+}
+.emojis-container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    list-style-type: none;
+    justify-content: center;
+    width: 75%;
+    /* border:solid black; */
+}

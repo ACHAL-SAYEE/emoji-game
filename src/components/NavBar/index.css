@@ -1,0 +1,30 @@
+.navbar {
+  /* display: flex; */
+  /* align-items: center; */
+  /* justify-content: flex-start; */
+  /* background-image: linear-gradient(to right, #9796f0, #fbc7d4); */
+  background-color: #9796f0;
+  padding-left: 70px;
+  padding-right: 70px;
+  /* border: solid red; */
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  /* border: solid pink; */
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+}
+.scores {
+  display: flex;
+  align-items: center;
+  /* list-style-type: none; */
+}
+.score {
+  margin-right: 20px;
+}
